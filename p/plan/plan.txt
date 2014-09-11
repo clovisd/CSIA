@@ -1,0 +1,25 @@
+Defining the Problem: (words: 206)
+	The client, Mr. Ben Colliard works and teaches for the History Department at the International School of Geneva. Available to him and his colleagues, the history department has a vast library of  support materials (movies, documentaries, textbooks and works of literature) to aid in teaching to students. This small library of resource compromises of a collection of support materials coming from different periods in history and covering subjects ranging from the beginning of time to the most recent events. This “library” is always growing as new textbooks and documentaries are added.
+
+	Currently, the department’s system is composed of a notebook where teachers and students record the title and their name of the borrowed resource. The current system does not allow quick searching, categorisation, and keeping track of what is where.
+
+	The current system has very little organisation and categorisation, making it hard for students and teachers alike to quickly and efficiently find the required resource, searching for said material requires checking each item individually for relevance to class. Mr. Ben Colliard has enlisted a Computer Science student’s help for developing an appropriate IT solution that is easily accessible and simple to use. In addition to personal use, this system will be accessible to members of staff.
+
+Rational for the Proposed Solution: (words: 212)
+	I decided that the best product for the current problem would be to compile a database of all the books and materials. Working in and with Microsoft Access would both provide a more simple interface for the client(s) while providing a robust and complex system to build upon over time to accommodate future resources. Using Access over any other database software would provide the best global comp ability across different OS’s and Version.
+
+	I had briefly thought of using FileMaker Pro for this project over MS Access because of its powerful features and more features where Access lacked. However, FileMaker Pro’s steep price tag and compatibility with other machines across different versions made it a less ideal solution. Additionally, I also considered using FileMakerPro’s Web server package for running the database form the cloud, however, while this would have provided users with access to the database from anywhere with an internet connection, the security risks and costs (web hosting, domain name, DNS setup, WebServer Software) where not sufficient for the size of the project. The possibility of using and setting up a database system using simple PHP scripts (w/ HTML+CSS) and MySQL (or SQLite) database to keep track of history material were far less than those of using MS Access.
+
+Stating Success Criteria: (bullet: 6)
+Client is able to search for resources thought the database
+Resources can easily be added to the system as they are gained
+Resources can be removed from the database
+Client’s can check in/out books and can check who currently has what resource.
+Proper and helpful documentation and tutorials are provided
+Possible entries for clients to leave notes/reviews about the resource for other clients.
+
+
+Client Signature [Acknowledgment]:
+
+________________________________
+[15/09-2014]
