@@ -1,0 +1,12 @@
+Name: Clovis Delmotte
+Solution Name: History Resources Database
+Client: Mr. Colliard - History Department ISG
+Adviser: Mr. Davies
+
+Solution Outline:
+	What it is: A database with all history materials (books, magazines, films, documentaries, audio recordings) at school with description, cover image, category, section in history (time period), and possible current location of the books.
+	Whats the Problem: A (currently) disorganised, not categorised History Material Library. 
+	Software: Microsoft Access Database Program.
+	Programming Language: N/A
+
+
