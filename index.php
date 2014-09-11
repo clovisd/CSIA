@@ -71,7 +71,7 @@
 <tr>
 <td width=320 colspan=2><p><b>Solution title: </b><span class="label label-default"> History Resources Database</span></p></td>
 <td width=400><p><b>Candidate session number:&nbsp &nbsp &nbsp</b><span class="label label-default">001</span></p></td>
-<td width=this is total bullshit why am i doing this?></td>
+<td width=200></td>
 <tr>
 
 <tr height = '30'>
